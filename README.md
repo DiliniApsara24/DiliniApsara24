@@ -1,24 +1,20 @@
 <!-- Centered Layout Starts -->
 <div align="center">
 
-# 🌸 Hi there, I'm **Dilini**! 👋  
-🎓 *Computer Science Undergraduate*  
-💼 *QA Engineer | Tech Writer | Freelancer*  
-🎯 *Learning React, TypeScript, and Web Development*  
-🌱 *Passionate about self-growth and helping others*  
-💬 *Ask me about QA, GitHub, or frontend tips!*
-
+# Hi there, I'm **Dilini**! 👋  
+🎓 Business Information System Undergraduate | QA Engineer | Tech Writer | Freelancing Web Developer | Passionate about Web development
 ---
+
+
 
 ### 🔥 GitHub Stats & Activity
 
-<img src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight" alt="GitHub Streak" width="48%"/>  
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DiliniApsara24&theme=tokyonight&hide_border=false)
 
 ---
 
-### 💻 My Tech Toolbox
+### 💻 Most Used Languages
 
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
@@ -34,13 +30,12 @@
 
 🌟 React + TypeScript  
 🧪 Advanced QA Practices  
-🧠 Full-stack Web App Building  
+🧠  Web App Building  
 
 ---
 
-### 📫 Let’s Connect!
+### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dilini19/)
 
 </div>
