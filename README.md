@@ -1,42 +1,46 @@
-### 👋 Hi there, I'm Dilini!
-- 🎓 Business Information System Undergraduate
-- 💼 QA Engineer | Tech Writer | Freelancing Web Developer
-- 🎯 Learning: React, TypeScript, and Web Development
-- 🌱 Passionate about self-growth Web development
+<!-- Centered Layout Starts -->
+<div align="center">
 
+# 🌸 Hi there, I'm **Dilini**! 👋  
+🎓 *Computer Science Undergraduate*  
+💼 *QA Engineer | Tech Writer | Freelancer*  
+🎯 *Learning React, TypeScript, and Web Development*  
+🌱 *Passionate about self-growth and helping others*  
+💬 *Ask me about QA, GitHub, or frontend tips!*
 
+---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Stats & Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DiliniApsara24&theme=tokyonight&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight" alt="GitHub Streak" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 
-### 💻 Most Used Languages
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiliniApsara24&layout=compact&theme=tokyonight)
+### 💻 My Tech Toolbox
 
-### 📈 GitHub Stats
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 
-![Dilini's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiliniApsara24&show_icons=true&theme=tokyonight)
+---
 
-### 💻 Tech Stack
+### 📚 Currently Exploring
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+🌟 React + TypeScript  
+🧪 Advanced QA Practices  
+🧠 Full-stack Web App Building  
 
+---
 
-### 📚 Currently Learning
+### 📫 Let’s Connect!
 
-- React + TypeScript
-- Advanced QA practices
-- Building full-stack web apps
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dilini19/)
-
+</div>
