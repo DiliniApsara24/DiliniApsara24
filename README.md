@@ -1,7 +1,7 @@
 <!-- Centered Layout Starts -->
 <div align="center">
 
-# Hi there, I'm **Dilini**! 👋  
+# Hi, I'm **Dilini**! 👋  
 🎓 Business Information System Undergraduate | QA Engineer | Tech Writer | Freelancing Web Developer | Passionate about Web development
 ---
 
@@ -26,11 +26,21 @@
 
 ---
 
-### 📚 Currently Exploring
+📈 GitHub Activity Graph
 
-🌟 React + TypeScript  
-🧪 Advanced QA Practices  
-🧠  Web App Building  
+![Summary Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiliniApsara24&theme=github_dark)
+
+
+🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiliniApsara24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+### 📚 Currently Exploring
+React + TypeScript  
+Advanced QA Practices  
+Web App Building  
 
 ---
 
