@@ -8,10 +8,11 @@
 
 
 ### 🔥 GitHub Stats & Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DiliniApsara24&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiliniApsara24&theme=tokyonight&hide_border=false)
 
 ---
+
+
 
 ### 💻 Most Used Languages
 
