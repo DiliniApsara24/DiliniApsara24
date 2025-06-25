@@ -9,7 +9,6 @@
 
 ### 🔥 GitHub Stats & Activity
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=DiliniApsara24&theme=tokyonight&hide_border=false)
 
 ---
