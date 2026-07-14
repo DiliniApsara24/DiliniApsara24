@@ -21,6 +21,12 @@ Passionate about building reliable software through **automation, quality engine
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
 
+
+### ⚡ Performance Testing
+
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=white" />
+
+
 ### 💻 Programming Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
