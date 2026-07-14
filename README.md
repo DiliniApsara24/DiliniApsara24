@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi, I'm **Dilini**! 👋  
-🎓 Business Information System Undergraduate  | Passionate about Web development | QA Engineer | Tech Writer
+| QA Engineer | Playwright | Automation
 ---
 
 
