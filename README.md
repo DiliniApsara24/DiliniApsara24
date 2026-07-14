@@ -1,51 +1,71 @@
-<!-- Centered Layout Starts -->
 <div align="center">
 
-# Hi, I'm **Dilini**! 👋  
-QA Engineer | Playwright | Automation
+# Hi, I'm **Dilini Apsara** 👋
+
+### QA Engineer | Aspiring SDET | Automation Enthusiast
+
+Passionate about building reliable software through **automation, quality engineering, and continuous improvement**.
+
 ---
 
+## 🛠️ Quality Engineering Stack
 
+### 🧪 Test Automation
 
-### 🔥 GitHub Stats & Activity
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
+
+### 🔌 API Testing
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
+
+### 💻 Programming Languages
+
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white" />
+
+### ⚙️ DevOps & Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+
+---
+
+## 🚀 Currently Learning
+
+✨ Advanced Test Automation Framework Design  
+✨ API Automation & Integration Testing  
+✨ CI/CD Pipeline Implementation  
+✨ AI-Powered Software Testing  
+✨ Performance & Security Testing Basics  
+
+---
+
+## 📊 GitHub Stats & Activity
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiliniApsara24&theme=tokyonight&hide_border=false)
 
 ---
 
+## 📈 GitHub Activity
 
-
-### 💻 Most Used Languages
-
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-
----
-
-📈 GitHub Activity Graph
-
-![Summary Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiliniApsara24&theme=github_dark)
-
-
-🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiliniApsara24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiliniApsara24&theme=github_dark)
 
 
 
 
-### 📚 Currently Exploring
-React + TypeScript  
-Advanced QA Practices  
-Web App Building  
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dilini19/)
+<a href="https://www.linkedin.com/in/dilini19/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
