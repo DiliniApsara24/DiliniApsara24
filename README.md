@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi, I'm **Dilini**! 👋  
-| QA Engineer | Playwright | Automation
+QA Engineer | Playwright | Automation
 ---
 
 
